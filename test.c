@@ -7,3 +7,12 @@ int main(void)
 	return 0;
 }
 
+void sunfun(void)
+{
+	printf("l am sub funtion\n")；
+
+
+
+	return 0;
+}
+
